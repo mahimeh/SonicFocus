@@ -22,6 +22,7 @@ SonicFocus is a desktop application designed to enhance and clarify audio in noi
 ### 1. Clone the Repository
 
 git clone https://github.com/mahimeh/SonicFocus---AI-Hearing-Assistant-for-Noisy-Environments.git
+
 cd SonicFocus---AI-Hearing-Assistant-for-Noisy-Environments
 
 
@@ -41,8 +42,11 @@ python3 gui.py
 ├── gui.py # Main GUI application (run this)
 
 ├── main.py # Command-line audio enhancer
+
 ├── advanced_processing.py # Core audio processing logic
+
 ├── README.md # Project documentation
+
 └── (other supporting files)
 
 
@@ -72,6 +76,7 @@ python3 gui.py
 ## Credits
 
 Developed by ADS Project Team 
+
 Powered by PyQt6, PyTorch, Librosa, and PyQtGraph
 
 ---
