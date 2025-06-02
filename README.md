@@ -23,7 +23,7 @@ SonicFocus is a desktop application designed to enhance and clarify audio in noi
 
 **Main Window (No File Loaded):**
 
-![No File Loaded](https://pplx-res.cloudinary.com/image/private/user_uploads/65063290/379cfe2e-cf2b-4b02-9c52-61a22bdf36fa/Screenshot-2025-06-02-at-12.35.46.jpg)
+![No File Loaded]()
 
 **Audio Loaded and Processed:**
 
